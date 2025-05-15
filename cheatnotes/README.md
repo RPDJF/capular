@@ -80,8 +80,6 @@ export class ParentComponent {
 }
 ```
 
-Appselector is the selector of the child component. You can find it in the child component's decorator. The selector is used to include the child component in the parent component's template.
-
 # Argo
 
 
